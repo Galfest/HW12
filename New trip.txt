@@ -1,0 +1,1 @@
+Note(id=0, title=New trip, description=Prepare a new trip, localDateTime=2024-02-22T11:34:33.512361200)
